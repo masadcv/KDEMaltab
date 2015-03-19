@@ -10,6 +10,8 @@ This fix include:
 - Fix for ambigous function calls for: log and pow functions in C++
 - clearing warning related to automatic conversion of int to unsigned int
 
+Many thanks to Alex for giving me guidance on how to fix these minor issues. 
+
 - - - 
 
 # COPYRIGHT / LICENSE 
